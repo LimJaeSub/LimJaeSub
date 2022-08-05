@@ -8,17 +8,32 @@
 
 ## <div align = "center">	🔥  Today I learned 🔥	</div>
 #### <div align="center"> https://velog.io/@liso_o </div>
-
 <br>
+<div align="center"> <a href="https://velog.io/@liso_o"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a> </div>
+
+
 <br>
 <br>
 
 ## <div align = "center" > 💡 Tech Stack 💡 </div>
-<img src="https://img.shields.io/badge/Javascript-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<div align ="center">
+       <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=html5&logoColor=white">
+       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=html5&logoColor=white">
+       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=html5&logoColor=white">
+       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=html5&logoColor=white">
+     </div>
+
+
+<hr>
+<hr>
+<hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimJaeSub&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimJaeSub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&text=Thanks&color=auto&height=300&section=header&fontSize=90&textBg=true&animation=blinking&rotate=10)
 
 
 
