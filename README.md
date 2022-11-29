@@ -10,6 +10,7 @@
 #### <div align="center"> https://velog.io/@liso_o </div>
 <br>
 <div align="center"> <a href="https://velog.io/@liso_o"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a> </div>
+<div align="center"><a href="https://reliable-geometry-897.notion.site/React-171b4f82739a43488d9805a8fa59bb84"></div>
 
 
 <br>
