@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&text=Profile&color=auto&height=300&section=header&fontSize=90&textBg=true&animation=blinking&rotate=-10)
 # <div align="center"> Hello  :) </div>
-### <div align="center"> 🖥️Web FrontEnd Developer🖥️ </div>
+### <div align="center"> 🖥️SW Q/A🖥️ </div>
 
 <br>
 <br>
