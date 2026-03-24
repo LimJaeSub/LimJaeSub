@@ -7,8 +7,7 @@
 ## 🧑‍💻 About Me
 
 - 🏢 한국정보통신기술협회(TTA) GS인증 QA 2년 경력 — 기능 · 보안 · 성능 테스트 16건 담당
-- 🔍 탐색적 테스트부터 자동화 파이프라인 구축까지 End-to-End QA 수행
-- 📋 Jira Scrum 스프린트 운영 + Confluence 테스트 계획서 문서화 경험
+- 📋 개인 프로젝트로 Jira Scrum 스프린트 운영 + Confluence 테스트 계획서 문서화 경험
 - 🎯 인하우스 QA 엔지니어로서 제품 품질을 처음부터 함께 만들어가고 싶습니다
 
 ---
@@ -65,7 +64,6 @@
 
 - POM 패턴 + BasePage 15개 이상 공통 메서드 설계
 - 검색 플로우 E2E · 무한 스크롤 · 반응형 BVA(992px) 등 실전 시나리오
-- GitHub Actions CI/CD 연동
 
 ### 🔹 [Portfolio-Website](https://github.com/LimJaeSub/Portfolio-Website)
 > React + Vite 개인 포트폴리오 사이트 (구현 중)
